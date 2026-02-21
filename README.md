@@ -1,6 +1,6 @@
 Robust Multimodal Product Embeddings for Real-World Marketplaces
 Overview
-
+### API should be in GraphQl
 This project studies how to learn robust multimodal representations of product listings using both images and text in
 real-world settings where data are noisy, incomplete, and ambiguous. The goal is to produce embeddings that reflect
 meaningful similarity within product categories, enabling tasks such as similarity search, duplicate detection, and

@@ -3,6 +3,3 @@
 *.http
 *.env
 .idea
-*.txt
-app/data/Apparel
-app/data/Footwear

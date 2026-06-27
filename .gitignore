@@ -3,3 +3,5 @@
 *.http
 *.env
 .idea
+text.txt 
+app/data/train 
